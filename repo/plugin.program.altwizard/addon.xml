@@ -19,11 +19,10 @@
         <description lang="en">[COLOR limegreen]ALT[/COLOR] Wizard provides custom builds, maintenance tools, and updates.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
-        <source>https://github.com/lilzenbca/MyKodiBuild/tree/main/repo</source>
+        <source>https://github.com/lilzenbca/plugin.program.altwizard</source>
         <news>
 1.0.0
  - Initial ALT Wizard release.
- - Custom build source configured for https://raw.githubusercontent.com/lilzenbca/MyKodiBuild/main/builds/wizard.txt
  - Forked from Open Wizard (base v1.4.9).
         </news>
         <assets>
